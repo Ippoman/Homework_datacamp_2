@@ -1,4 +1,4 @@
-# Homework_datacamp_2
+# Homework_DataCamp_2
 
 Name: Pongsakorn Akkaramanee
 
